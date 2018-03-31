@@ -7,6 +7,10 @@ import org.springframework.web.bind.annotation.*;
 public class CupEndpoint {
     private Boolean coin;
 
+    public CupEndpoint() {
+        this.coin = false;
+    }
+
     @GetMapping
     Boolean getCoin() {
         return coin;
