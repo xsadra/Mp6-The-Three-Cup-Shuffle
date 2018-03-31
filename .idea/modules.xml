@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mp6-The-Three-Cup-Shuffle.iml" filepath="$PROJECT_DIR$/.idea/Mp6-The-Three-Cup-Shuffle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cup/cup.iml" filepath="$PROJECT_DIR$/cup/cup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trickster/trickster.iml" filepath="$PROJECT_DIR$/trickster/trickster.iml" />
+    </modules>
+  </component>
+</project>
