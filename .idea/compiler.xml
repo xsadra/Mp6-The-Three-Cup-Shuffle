@@ -10,7 +10,7 @@
         <module name="trickster" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="9">
       <module name="cup" target="9" />
       <module name="trickster" target="9" />
     </bytecodeTargetLevel>
